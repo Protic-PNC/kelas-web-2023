@@ -1,0 +1,8 @@
+Requirement:
+1. JavaScript Dasar
+2. JavaScript DOM
+
+Langkah-Langkah:
+1. Membuat tampilan HTML (index.html)
+2. Membuat fungsi-fungsi CRUD pada JS (script.js)
+3. Memperindah tampilan dengan CSS (style.css)
